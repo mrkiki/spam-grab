@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # D4N15HG4NU
 """
-SAYA GAY
+SAYA MUSLIM
 """
 from multiprocessing.pool import ThreadPool
 try:
